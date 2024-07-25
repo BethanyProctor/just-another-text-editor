@@ -15,7 +15,10 @@
   In the case that the user wants to download the code and run this application locally, first run `npm i` in the terminal. Next run `npm run start` to start the Webpack process and begin hosting locally.
 
   ## Usage
-  In order to use the project, simply follow the link to the deployed application. There, you can either stay on the browser or install the app for offline use. Edit your HTML, CSS, or JavaScript text online or on the go! 
+  In order to use the project, simply follow this <a href="https://just-another-text-editor-spg8.onrender.com/" > link to the deployed application </a>. There, you can either stay on the browser or install the app for offline use. Edit your HTML, CSS, or JavaScript text online or on the go! 
+
+  ![image](https://github.com/user-attachments/assets/f1d6e883-aea9-4d8b-9e00-6eac668678ee)
+
   </br>
   Languages : Node Express Webpack JavaScript HTML CSS
 
